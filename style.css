@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 40px;
+    
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    
+}
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+td{
+    border: 1px solid;
+    padding: 10px;
+}
+thead th{
+    background-color: aliceblue ;
+    padding: 15px;
+    font-size: large;
+}
+.day{
+    font-size: large;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+.lunch{
+    font-size: large;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
